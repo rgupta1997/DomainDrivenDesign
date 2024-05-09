@@ -1,0 +1,17 @@
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\bin\Debug\net6.0\Amazon.Infrastructure.deps.json
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\bin\Debug\net6.0\Amazon.Infrastructure.dll
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\bin\Debug\net6.0\Amazon.Infrastructure.pdb
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\bin\Debug\net6.0\Amazon.Application.dll
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\bin\Debug\net6.0\Amazon.Domain.dll
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\bin\Debug\net6.0\Amazon.Application.pdb
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\bin\Debug\net6.0\Amazon.Domain.pdb
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\obj\Debug\net6.0\Amazon.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\obj\Debug\net6.0\Amazon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\obj\Debug\net6.0\Amazon.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\obj\Debug\net6.0\Amazon.Infrastructure.AssemblyInfo.cs
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\obj\Debug\net6.0\Amazon.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\obj\Debug\net6.0\Amazon.I.A79424F2.Up2Date
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\obj\Debug\net6.0\Amazon.Infrastructure.dll
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\obj\Debug\net6.0\refint\Amazon.Infrastructure.dll
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\obj\Debug\net6.0\Amazon.Infrastructure.pdb
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Infrastructure\obj\Debug\net6.0\ref\Amazon.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Contract\bin\Debug\net6.0\Amazon.Contract.deps.json
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Contract\bin\Debug\net6.0\Amazon.Contract.dll
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Contract\bin\Debug\net6.0\Amazon.Contract.pdb
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Contract\obj\Debug\net6.0\Amazon.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Contract\obj\Debug\net6.0\Amazon.Contract.AssemblyInfoInputs.cache
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Contract\obj\Debug\net6.0\Amazon.Contract.AssemblyInfo.cs
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Contract\obj\Debug\net6.0\Amazon.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Contract\obj\Debug\net6.0\Amazon.Contract.dll
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Contract\obj\Debug\net6.0\refint\Amazon.Contract.dll
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Contract\obj\Debug\net6.0\Amazon.Contract.pdb
+C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Contract\obj\Debug\net6.0\ref\Amazon.Contract.dll
