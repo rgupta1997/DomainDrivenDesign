@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\Amazon.Contract.csproj": {}
+    "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\Amazon.Contract.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\Amazon.Contract.csproj": {
+    "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\Amazon.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\Amazon.Contract.csproj",
+        "projectUniqueName": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\Amazon.Contract.csproj",
         "projectName": "Amazon.Contract",
-        "projectPath": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\Amazon.Contract.csproj",
+        "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\Amazon.Contract.csproj",
         "packagesPath": "C:\\Users\\Rohit Gupta\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\obj\\",
         "projectStyle": "PackageReference",

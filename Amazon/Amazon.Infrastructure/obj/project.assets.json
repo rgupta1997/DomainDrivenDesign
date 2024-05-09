@@ -2911,9 +2911,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\Amazon.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\Amazon.Infrastructure.csproj",
       "projectName": "Amazon.Infrastructure",
-      "projectPath": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\Amazon.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\Amazon.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Rohit Gupta\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
@@ -2932,8 +2932,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\Amazon.Application.csproj": {
-              "projectPath": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\Amazon.Application.csproj"
+            "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\Amazon.Application.csproj": {
+              "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\Amazon.Application.csproj"
             }
           }
         }

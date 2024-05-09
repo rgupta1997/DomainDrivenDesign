@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aehyEIodexvUjTSnxX2PQ6s1FOQXVL2KD9yomrzWy/u/EsXC/aHjwdVh45E5I0oB0xtHcJeiLLD7kHaEQRQwMA==",
+  "dgSpecHash": "aPLDgpV0Tojk2zGQciPR6ZbxKydaKZNNPmWkMz1mjsBJ29/KiEed8Rj4ijnLj48jD3KHlczO0hbHFN5WyF0sBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\Amazon.Application.csproj",
+  "projectFilePath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\Amazon.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rohit Gupta\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",
     "C:\\Users\\Rohit Gupta\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XIN7SKrNQNO1hWRc2GF05woBGNcoe0Qkn156UPEPBLUvNt9tEXbH4n+w7plb/+HGpK4k/Hv6LYHQEiLxZOiZFA==",
+  "dgSpecHash": "3YLoaDfmbJEtlnOG0my2okeXYxiCscd6d9O/PFMPRXVMEKbIypwSTqAjlAy49nX8UjrDD9cJWdB6bdTJf2egHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Domain\\Amazon.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Domain\\Amazon.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

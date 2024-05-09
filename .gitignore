@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Amazon/.vs/Amazon/v17/.suo
+/Amazon/Amazon/obj/Debug/net6.0/Amazon.GeneratedMSBuildEditorConfig.editorconfig
