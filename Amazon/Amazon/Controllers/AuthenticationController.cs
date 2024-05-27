@@ -32,13 +32,13 @@ namespace Amazon.Controllers
         [HttpPost("claimsearch")]
         public async Task<ActionResult> ClaimSearch(ClaimSearch request)
         {
-            var validate = _validator.Validate(request);
+            //var validate = _validator.Validate(request);
 
-            if (validate.IsValid)
-            {
+            //if (validate.IsValid)
+            //{
                 return Ok(new Result<ClaimSearch>(StatusCodes.Status200OK, null, request));
-            }
-            return BadRequest(new Result<ClaimSearch>(StatusCodes.Status400BadRequest, validate.Errors.Select(error => error.ErrorMessage).ToList(), null));
+            //}
+            //return BadRequest(new Result<ClaimSearch>(StatusCodes.Status400BadRequest, validate.Errors.Select(error => error.ErrorMessage).ToList(), null));
 
         }
 

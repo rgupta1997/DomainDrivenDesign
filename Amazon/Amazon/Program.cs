@@ -1,12 +1,13 @@
 using Amazon;
 using Amazon.Application;
+using Amazon.Contract.Common;
 using Amazon.Infrastructure;
 using Amazon.Mapping;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddPresentation();
+builder.Services.AddPresentation(builder.Configuration);
 builder.Services.AddApplication();
 builder.Services.AddInfrastructure(builder.Configuration);
 
@@ -23,6 +24,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+
+app.UseMiddleware<TokenBucketMiddleware>();
 //app.UseMiddleware<ErrorHandlingMiddleware>();
 app.UseHttpsRedirection();
 
