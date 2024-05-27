@@ -9,3 +9,15 @@ C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Domain\obj\Debug\net6.0\Amazon.D
 C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Domain\obj\Debug\net6.0\refint\Amazon.Domain.dll
 C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Domain\obj\Debug\net6.0\Amazon.Domain.pdb
 C:\Users\Rohit Gupta\source\repos\Amazon\Amazon.Domain\obj\Debug\net6.0\ref\Amazon.Domain.dll
+C:\Users\Rohit Gupta\source\repos\DomainDrivenDesign\Amazon\Amazon.Domain\bin\Debug\net6.0\Amazon.Domain.deps.json
+C:\Users\Rohit Gupta\source\repos\DomainDrivenDesign\Amazon\Amazon.Domain\bin\Debug\net6.0\Amazon.Domain.dll
+C:\Users\Rohit Gupta\source\repos\DomainDrivenDesign\Amazon\Amazon.Domain\bin\Debug\net6.0\Amazon.Domain.pdb
+C:\Users\Rohit Gupta\source\repos\DomainDrivenDesign\Amazon\Amazon.Domain\obj\Debug\net6.0\Amazon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rohit Gupta\source\repos\DomainDrivenDesign\Amazon\Amazon.Domain\obj\Debug\net6.0\Amazon.Domain.AssemblyInfoInputs.cache
+C:\Users\Rohit Gupta\source\repos\DomainDrivenDesign\Amazon\Amazon.Domain\obj\Debug\net6.0\Amazon.Domain.AssemblyInfo.cs
+C:\Users\Rohit Gupta\source\repos\DomainDrivenDesign\Amazon\Amazon.Domain\obj\Debug\net6.0\Amazon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Gupta\source\repos\DomainDrivenDesign\Amazon\Amazon.Domain\obj\Debug\net6.0\Amazon.Domain.sourcelink.json
+C:\Users\Rohit Gupta\source\repos\DomainDrivenDesign\Amazon\Amazon.Domain\obj\Debug\net6.0\Amazon.Domain.dll
+C:\Users\Rohit Gupta\source\repos\DomainDrivenDesign\Amazon\Amazon.Domain\obj\Debug\net6.0\refint\Amazon.Domain.dll
+C:\Users\Rohit Gupta\source\repos\DomainDrivenDesign\Amazon\Amazon.Domain\obj\Debug\net6.0\Amazon.Domain.pdb
+C:\Users\Rohit Gupta\source\repos\DomainDrivenDesign\Amazon\Amazon.Domain\obj\Debug\net6.0\ref\Amazon.Domain.dll

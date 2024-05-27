@@ -4,6 +4,96 @@
     "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\Amazon.Contract.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\Amazon.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\Amazon.Application.csproj",
+        "projectName": "Amazon.Application",
+        "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\Amazon.Application.csproj",
+        "packagesPath": "C:\\Users\\Rohit Gupta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rohit Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Domain\\Amazon.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Domain\\Amazon.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\Amazon.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -11,7 +101,81 @@
         "projectName": "Amazon.Contract",
         "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\Amazon.Contract.csproj",
         "packagesPath": "C:\\Users\\Rohit Gupta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\obj\\",
+        "outputPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rohit Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\Amazon.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\Amazon.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.33, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Domain\\Amazon.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Domain\\Amazon.Domain.csproj",
+        "projectName": "Amazon.Domain",
+        "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Domain\\Amazon.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rohit Gupta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rohit Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +208,84 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\Amazon.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\Amazon.Infrastructure.csproj",
+        "projectName": "Amazon.Infrastructure",
+        "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\Amazon.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Rohit Gupta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rohit Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\Amazon.Application.csproj": {
+                "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\Amazon.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.5.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

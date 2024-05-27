@@ -2332,7 +2332,7 @@
       "projectName": "Amazon.Application",
       "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\Amazon.Application.csproj",
       "packagesPath": "C:\\Users\\Rohit Gupta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\obj\\",
+      "outputPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rohit Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",

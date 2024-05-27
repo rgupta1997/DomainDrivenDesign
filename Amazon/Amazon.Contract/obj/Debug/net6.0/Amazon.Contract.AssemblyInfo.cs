@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Amazon.Contract")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bddcae46ad4f1bc4051d11759242db10c3711c96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+329df25311242d46cc225698006804af9cf7539f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Amazon.Contract")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Amazon.Contract")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

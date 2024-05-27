@@ -11,7 +11,7 @@
         "projectName": "Amazon.Application",
         "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\Amazon.Application.csproj",
         "packagesPath": "C:\\Users\\Rohit Gupta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\obj\\",
+        "outputPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rohit Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,7 +101,7 @@
         "projectName": "Amazon.Domain",
         "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Domain\\Amazon.Domain.csproj",
         "packagesPath": "C:\\Users\\Rohit Gupta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rohit Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,7 +161,7 @@
         "projectName": "Amazon.Infrastructure",
         "projectPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\Amazon.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Rohit Gupta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rohit Gupta\\Source\\Repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Rohit Gupta\\source\\repos\\DomainDrivenDesign\\Amazon\\Amazon.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rohit Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
