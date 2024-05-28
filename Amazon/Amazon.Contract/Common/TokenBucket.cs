@@ -23,9 +23,19 @@ namespace Amazon.Contract.Common
             _refillRate = refillRate;
         }
 
-        private string GetKey(string clientId,  string apiName)
+        private string GetKey(string param,  string apiName)
         {
-            return $"{_baseKey}:{clientId}:{apiName}";
+            if(!string.IsNullOrEmpty(param) && !string.IsNullOrEmpty(apiName))
+            {
+                return $"{_baseKey}:{apiName}:{param}";
+
+            }
+            //else if (string.IsNullOrEmpty(clientId) && string.IsNullOrEmpty(apiName))
+            //{
+            //    return $"{_baseKey}";
+
+            //}
+            return $"{_baseKey}";
         }
 
         private double Refill(string key)
@@ -61,11 +71,11 @@ namespace Amazon.Contract.Common
             return tokens;
         }
 
-        public bool Consume(string clientId, string apiName, int tokens)
+        public bool Consume(string param, string apiName, int tokens)
         {
-            var key = GetKey(clientId, apiName);
+            var key = GetKey(param, apiName);
             var currentTokens = Refill(key);
-            if (currentTokens > tokens)
+            if (currentTokens >= tokens)
             {
                 _database.HashDecrement(key, "tokens", tokens);
                 return true;
